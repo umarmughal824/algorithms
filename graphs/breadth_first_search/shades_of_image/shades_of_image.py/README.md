@@ -6,6 +6,9 @@ Here's a proper README content for your project:
 
 This project solves the problem of calculating the distance of each pixel in a binary image to the nearest black pixel. The solution converts a black-and-white image to a grayscale image by making each pixel darker the closer it is to the nearest black pixel, and lighter the farther it is from the nearest black pixel. The Manhattan distance is used to determine proximity between pixels.
 
+![img](https://github.com/user-attachments/assets/493f17fe-bed6-43b2-9cdf-c81c58224c82)
+
+
 ## Problem Description
 
 ### Input Format
